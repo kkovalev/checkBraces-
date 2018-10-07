@@ -20,6 +20,6 @@
 
 ## RoadMap
 
-- [ ] First do it
+- [x] First do it
 - [ ] Then do it right
 - [ ] Then do it better
