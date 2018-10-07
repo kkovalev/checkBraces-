@@ -9,7 +9,7 @@
 Минимальный набор тестов:
 ```javascript
     checkBraces("---(++++)----") == 0
-    checkBraces("") -> 0
+    checkBraces("") == 0
     checkBraces("before ( middle []) after ") == 0
     checkBraces(") (") == 1
     checkBraces("} {") == 1
